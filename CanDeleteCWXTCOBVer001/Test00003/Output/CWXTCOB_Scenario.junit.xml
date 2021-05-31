@@ -1,0 +1,5 @@
+<testsuites>
+  <testsuite name="CWXTCOB_Scenario" errors="0" tests="1" failures="0">
+    <testcase classname="CWXTCOB_Scenario" name="Unit Test: Test Case: CWXTCOBCase1 for program: CWXTCOB" />
+  </testsuite>
+</testsuites>
